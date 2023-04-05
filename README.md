@@ -42,7 +42,7 @@ The RAF (risk amplification factor) and annual hazard counts in each region were
 ### Voluntary reallocation population
 The percentage of voluntary relocated households in high-risk areas were assumed to be distributed from (0.02 to 0.14). Generally, there would be a higher intension to relocate in the starting period of this program, and it would gradually diminish. It was assumed that the annual relocation effect of voluntary relocation on reducing property damage is half of the voluntary relocation percentage. The total relocation effect at the end of this insurance term is about 45%, which represents that voluntary relocation would mitigate 55% of property damage in 20 years' time compared to damage without voluntary relocation.   
 
-Refer to Appendix 1 for detailed voluntary relocation proportion and effect.  
+> Refer to Appendix 1 for detailed voluntary relocation proportion and effect.  
 
 ### Policy design assumptions 
 As this social insurance program focuses on reducing the relocation risk, minor hazards were considered not able to damage properties to a level that is not suitable for living, thus they were ignored in cost calculations.  
@@ -50,7 +50,6 @@ As this social insurance program focuses on reducing the relocation risk, minor 
 Material and labor costs associated with housing and relocation were assumed to increase 25% after medium and major hazards. Households who need temporary accommodation after hazards were calculated by hazard damage cost after any adjustment for relocation dividing 40k. The value of 40k was decided since this is roughly 20% of average property value. Temporary accommodation cost per person per month was referred to the given data, assumed to be fixed.  
 
 Other components involved in the cost model formula, such as basic needs cost (Ꝕ 400), average persons per household were assumed to be constant throughout the policy term.  
-
 
 ## Project design
 ### Outline
@@ -65,8 +64,6 @@ For a person to file a claim for voluntary relocation, the following conditions 
 * The insured must have purchased the property before the implementation of this insurance program.   
 * The insured must relocate to a region that is rated as a low-risk area under this program.   
 * The insured must reinforce the property when relocating and the consolidated property must satisfy specific standards.  
-
-> Refer to Appendix 1 for detailed voluntary relocation proportion and effect.
 
 ### Involuntary displacement   
 For a person to file a claim for involuntary displacement, the following conditions need to be satisfied:   
