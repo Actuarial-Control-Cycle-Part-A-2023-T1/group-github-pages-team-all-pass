@@ -147,7 +147,8 @@ $$ Emergency displacement cost = Repair cost + Temporary cost$$
 ### Policy Cost
 Annual policy cost for the whole country with this program equals the summation of emergency displacement cost and voluntary relocation cost (sum over all regions). Combining the economic cost without the program (same estimation formula as displacement cost model for the policy, expected no relocation effect), the chart below shows the comparison between policy cost with and without the program. For more detail, see Appendix 4. 
 
-> [Chart 1]
+> ![image](https://user-images.githubusercontent.com/129587466/230258640-351ab265-ea3f-47d9-a0b9-13977edd5298.png)
+
 
 ### Premium  
 Households in the six regions will be charged with different premiums based on the level of risk they are exposed to.
@@ -177,7 +178,8 @@ The extra capital required for solvency can be funded in two ways: 
 ### Voluntary Relocation & Emergency Displacement Costs 
 The costs under the program associated with voluntary relocation with those associated with emergency displacement sums up to the total policy cost. The voluntary relocation cost varies each year which depends on the amount of relocation households each year. The emergency displacement cost reduces over time due to relocation effect. Most of the cost under the program is from emergency displacement, the cost of emergency displacement is about 36 times higher than the cost of voluntary relocation on average. 
 
-> [Chart 2]
+> ![image](https://user-images.githubusercontent.com/129587466/230258698-05a2fde4-bfd7-4757-b1ac-5a253c967789.png)
+
 
 We also computed potential emergency costs that will be reduced by voluntary relocation which measures the total future emergency displacement cost that would be reduced by each year’s voluntary relocation. I.e., the cost reduced for 2024 measures all the cost reduced (from 2024 to 2043) because of 2024 voluntary relocation. From the table below, we can see that the reduced economic cost associated with emergency displacement due to voluntary relocation is significantly larger than the cost needed for voluntary relocation. 
 
@@ -225,7 +227,38 @@ There were several missing values in the inflation and interest rates data provi
 
 ---
 ## Appendix
-[To do]
+![image](https://user-images.githubusercontent.com/129587466/230258916-60b8bc19-9e09-4268-b2ec-b462d964e23c.png)
+![image](https://user-images.githubusercontent.com/129587466/230258971-e8ab3ede-1a60-42b4-9a5b-3e6556c002ed.png)
+![image](https://user-images.githubusercontent.com/129587466/230259014-98973d6d-f7b4-4db6-9302-fed2932e0d4f.png)
+![image](https://user-images.githubusercontent.com/129587466/230259050-a9b7c04e-afaa-4fd9-8609-abc852c16fdc.png)
+![image](https://user-images.githubusercontent.com/129587466/230259090-94dd030b-e566-41a9-9661-0c0a274e7f38.png)
+![image](https://user-images.githubusercontent.com/129587466/230259163-73d2ce89-bd66-4d7a-8d26-bc0153f4ab39.png)
+![image](https://user-images.githubusercontent.com/129587466/230259216-bbdf2f2d-2174-4ed8-b250-5b19c005010c.png)
+![image](https://user-images.githubusercontent.com/129587466/230259270-d542fdd1-382a-4360-ba1e-943e5d4405d9.png)
+![image](https://user-images.githubusercontent.com/129587466/230259349-1afe480d-3104-40aa-903c-e30a8a612a57.png)
+![image](https://user-images.githubusercontent.com/129587466/230259388-6651d892-2a93-4ecb-bed8-66c01333b2fb.png)
+![image](https://user-images.githubusercontent.com/129587466/230259423-38dd708a-bb27-4218-825a-8f7b5fe99b5f.png)
+
+## BIBLIOGRAPHY
+Chetty, R. 2006, “A general formula for the optimal level of Social Insurance,” Journal of Public Economics, 90(10-11), pp. 1879–1901, <https://doi.org/10.1016/j.jpubeco.2006.01.004>
+
+Chetty, R. and Finkelstein, A. 2013, “Social Insurance: Connecting Theory to data,” handbook of public economics, vol. 5, pp. 111–193, 
+<https://doi.org/10.1016/b978-0-444-53759-1.00003-0>
+
+Disaster Insurance for the Poor? A review of microinsurance for natural disaster risks in developing countries, accessed 24 February 2023, <https://www.ipcc.ch/apps/njlite/srex/njlite_download.php?id=6705> 
+
+Disaster mitigation and insurance: Learning from Katrina, accessed 24 February 2023, 
+<https://journals.sagepub.com/doi/10.1177/0002716205285685> 
+
+McAneney, J. et al. 2015, Government-sponsored natural disaster insurance pools: A view from down-under, International Journal of Disaster Risk Reduction. Elsevier, accessed 24 February 2023, 
+<https://www.sciencedirect.com/science/article/pii/S221242091530159X> 
+
+Outline of Japan's earthquake insurance system 2022 Ministry of Finance, accessed 24 February 2023,<https://www.mof.go.jp/english/policy/financial_system/earthquake_insurance/outline_of_earthquake_insurance.html> 
+
+US Government Natural Disaster Assistance: Historical Analysis and a Proposal for the Future, accessed 24 February 2023, 
+<https://onlinelibrary.wiley.com/doi/10.1111/1467-7717.00110>
+
+
 
 ---
 
