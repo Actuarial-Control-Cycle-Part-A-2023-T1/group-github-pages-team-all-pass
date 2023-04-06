@@ -227,17 +227,7 @@ There were several missing values in the inflation and interest rates data provi
 
 ---
 ## Appendix
-![image](https://user-images.githubusercontent.com/129587466/230258916-60b8bc19-9e09-4268-b2ec-b462d964e23c.png)
-![image](https://user-images.githubusercontent.com/129587466/230258971-e8ab3ede-1a60-42b4-9a5b-3e6556c002ed.png)
-![image](https://user-images.githubusercontent.com/129587466/230259014-98973d6d-f7b4-4db6-9302-fed2932e0d4f.png)
-![image](https://user-images.githubusercontent.com/129587466/230259050-a9b7c04e-afaa-4fd9-8609-abc852c16fdc.png)
-![image](https://user-images.githubusercontent.com/129587466/230259090-94dd030b-e566-41a9-9661-0c0a274e7f38.png)
-![image](https://user-images.githubusercontent.com/129587466/230259163-73d2ce89-bd66-4d7a-8d26-bc0153f4ab39.png)
-![image](https://user-images.githubusercontent.com/129587466/230259216-bbdf2f2d-2174-4ed8-b250-5b19c005010c.png)
-![image](https://user-images.githubusercontent.com/129587466/230259270-d542fdd1-382a-4360-ba1e-943e5d4405d9.png)
-![image](https://user-images.githubusercontent.com/129587466/230259349-1afe480d-3104-40aa-903c-e30a8a612a57.png)
-![image](https://user-images.githubusercontent.com/129587466/230259388-6651d892-2a93-4ecb-bed8-66c01333b2fb.png)
-![image](https://user-images.githubusercontent.com/129587466/230259423-38dd708a-bb27-4218-825a-8f7b5fe99b5f.png)
+
 
 ## BIBLIOGRAPHY
 Chetty, R. 2006, “A general formula for the optimal level of Social Insurance,” Journal of Public Economics, 90(10-11), pp. 1879–1901, <https://doi.org/10.1016/j.jpubeco.2006.01.004>
