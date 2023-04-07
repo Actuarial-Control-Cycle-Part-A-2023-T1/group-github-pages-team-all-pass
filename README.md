@@ -233,6 +233,7 @@ There were several missing values in the inflation and interest rates data provi
 ---
 ## Appendix
 1. Voluntary relocation proportion and effect 
+      ![image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-team-all-pass/blob/main/A1.png)
 2. Calculation on number of hazard events in next 20 years by using most fitted trend line, and the R-square of fitted trend line is controlled higher than 0.995.
 3. Formulas used to model voluntary Relocation, emergency displacement and policy cost. 
     * Expected property damage (medium/major) = Average property damage (medium/major) * predicted hazard rate (medium/major) 
