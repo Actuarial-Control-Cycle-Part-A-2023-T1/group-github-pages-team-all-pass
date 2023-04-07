@@ -6,7 +6,12 @@
 >Boyuan Wang | Jason Zhang | Jingyuan Wang | Yan Ching Tang | Ying Jiang
 ---
 ## Executive summary
-[To do]
+The following report will be introducing our social insurance program that provides protection to residents in Storslysia against socio-economic loss caused by natural disasters. The divergence of level of development and risk exposure were taken into consideration that we tailored the policy to ensure residents in the six regions of Storslysia are well protected from emergency displacement in an equal and cost-effective basis. In addition, a voluntary relocation section was designed to encourage risk mitigations, believing that awareness and proactive actions are fundamental in reducing potential losses.
+
+Our model was designed based on the historical hazard data of Storslysia, future environmental estimations by the ICCP, and some reliable assumptions made due to the limited information. Stress tests were performed assuming extreme deterioration of weather and poor response to this program that we are highly confident regarding the effectiveness and budget control.
+
+Cost and result of this program were projected across the next twenty years. Effectively, it would more than halve the expected loss arisen from catastrophic weather events by the end of this policy term, with two third of the reduction amount attribute to voluntary relocation.
+
 
 --- 
 ## Project outline
@@ -21,7 +26,7 @@
 ## Report
 ## Objective
 
-The social insurance program for relocation is aimed at helping Storslysia manage its exposure to displacement risk arising from catastrophic climate-related events, as Storslysia is acutely threatened by the impact of climate-related catastrophes that are increasing over time due to climate change.
+This social insurance program for relocation is aimed at helping Storslysia manage its exposure to displacement risk arising from catastrophic climate-related events, as Storslysia is acutely threatened by the impact of climate-related catastrophes that are increasing over time due to climate change.
 
 Key metrics to be reported and used to monitor the proposed program’s success over the selected timeframe (2024 to 2043).  The effectiveness of this program will be accessed from three aspects: reduction in cost, the total cost of the program and pricing of the insurance (accessibility) every year over a 3-year short-term timeframe and 20-year long-term timeframe. 
 
