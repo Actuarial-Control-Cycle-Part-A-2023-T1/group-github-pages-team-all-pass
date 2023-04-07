@@ -152,7 +152,7 @@ $$ Emergency displacement cost = Repair cost + Temporary cost$$
 ### Policy Cost
 Annual policy cost for the whole country with this program equals the summation of emergency displacement cost and voluntary relocation cost (sum over all regions). Combining the economic cost without the program (same estimation formula as displacement cost model for the policy, expected no relocation effect), the chart below shows the comparison between policy cost with and without the program. For more detail, see Appendix 4. 
 
-> ![image](https://user-images.githubusercontent.com/129587466/230258640-351ab265-ea3f-47d9-a0b9-13977edd5298.png)
+![image](https://user-images.githubusercontent.com/129587466/230258640-351ab265-ea3f-47d9-a0b9-13977edd5298.png)
 
 
 ### Premium  
@@ -183,7 +183,7 @@ The extra capital required for solvency can be funded in two ways: 
 ### Voluntary Relocation & Emergency Displacement Costs 
 The costs under the program associated with voluntary relocation with those associated with emergency displacement sums up to the total policy cost. The voluntary relocation cost varies each year which depends on the amount of relocation households each year. The emergency displacement cost reduces over time due to relocation effect. Most of the cost under the program is from emergency displacement, the cost of emergency displacement is about 36 times higher than the cost of voluntary relocation on average. 
 
-> ![image](https://user-images.githubusercontent.com/129587466/230258698-05a2fde4-bfd7-4757-b1ac-5a253c967789.png)
+![image](https://user-images.githubusercontent.com/129587466/230258698-05a2fde4-bfd7-4757-b1ac-5a253c967789.png)
 
 
 We also computed potential emergency costs that will be reduced by voluntary relocation which measures the total future emergency displacement cost that would be reduced by each year’s voluntary relocation. I.e., the cost reduced for 2024 measures all the cost reduced (from 2024 to 2043) because of 2024 voluntary relocation. From the table below, we can see that the reduced economic cost associated with emergency displacement due to voluntary relocation is significantly larger than the cost needed for voluntary relocation. 
