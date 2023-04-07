@@ -232,7 +232,28 @@ There were several missing values in the inflation and interest rates data provi
 
 ---
 ## Appendix
-
+1. Voluntary relocation proportion and effect 
+2. Calculation on number of hazard events in next 20 years by using most fitted trend line, and the R-square of fitted trend line is controlled higher than 0.995.
+3. Formulas used to model voluntary Relocation, emergency displacement and policy cost. 
+    * Expected property damage (medium/major) = Average property damage (medium/major) * predicted hazard rate (medium/major) 
+    * Expected total property damage = Expected property damage (medium) + Expected property damage (major) 
+    * Household in high-risk area = Expected total property damage * Total relocation effect (from 0.96 to 0.45 depending on time) / 40k 
+    * Household wish to relocate = Household in the high-risk area * Relocation percent each year (from 0.14 to 0.02 depending on time) 
+    * Voluntary relocation cost = Household wish to relocate * Average property value * 5% (benefit percent) 
+    * Expected property damage after adjustment for relocation = Expected total property damage * Total relocation effect (from 0.96 to 0.45 depending on time) 
+    * Estimated households require accommodation = Expected property damage after adjustment for relocation / 40k 
+    * Temporary accommodation & basic need cost = Estimated households require accommodation * Average person per household (regionally based) * (Temporary accommodation after hazard cost per person per month (regionally based) + basic needs cost (Ꝕ 400)) 
+    * Repair cost = Expected property damage after adjustment for relocation * 125% (25% increase for cost rise after hazards) 
+    * Emergency displacement cost = Temporary accommodation & basic need cost + Repair cost 
+    * Total policy cost each region each year = Emergency displacement cost each region each year + Voluntary relocation cost each region each year 
+4. Cost comparison with or without program
+5. Predicted annual regional premium under medium CO2 emission.
+    * Premium = Total policy cost for each region/ (1+half year interest) / household in each region 
+6. Economic capital testing
+    * Poisson GLM to predict hazards rate in 2020 and 99% one-side confidence interval for extreme cases. 
+    * Comparison of total policy costs under normal and extreme cases  
+8. Voluntary relocation and emergency displacement costs and effectiveness of voluntary relocation
+9. Emergency costs reduced under extreme case. 
 
 ## BIBLIOGRAPHY
 Chetty, R. 2006, “A general formula for the optimal level of Social Insurance,” Journal of Public Economics, 90(10-11), pp. 1879–1901, <https://doi.org/10.1016/j.jpubeco.2006.01.004>
