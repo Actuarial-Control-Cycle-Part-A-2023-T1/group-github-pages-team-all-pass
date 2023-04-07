@@ -6,7 +6,7 @@
 >Boyuan Wang | Jason Zhang | Jingyuan Wang | Yan Ching Tang | Ying Jiang
 ---
 ## Executive summary
-The following report will be introducing our social insurance program that provides protection to residents in Storslysia against socio-economic loss caused by natural disasters. The divergence of level of development and risk exposure were taken into consideration that we tailored the policy to ensure residents in the six regions of Storslysia are well protected from emergency displacement in an equal and cost-effective basis. In addition, a voluntary relocation section was designed to encourage risk mitigations, believing that awareness and proactive actions are fundamental in reducing potential losses.
+The following report will be introducing our social insurance program that provides protection to residents in Storslysia against socio-economic loss caused by natural disasters. The divergence of level of development and risk exposure were taken into consideration that we tailored the policy to ensure residents in the six regions of Storslysia are well protected from emergency displacement in an equal and cost-effective basis. In addition, a voluntary relocation section was designed to encourage risk mitigation, believing that awareness and proactive actions are fundamental in reducing potential losses.
 
 Our model was designed based on the historical hazard data of Storslysia, future environmental estimations by the ICCP, and some reliable assumptions made due to the limited information. Stress tests were performed assuming extreme deterioration of weather and poor response to this program that we are highly confident regarding the effectiveness and budget control.
 
