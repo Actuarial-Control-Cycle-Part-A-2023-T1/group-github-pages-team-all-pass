@@ -34,7 +34,6 @@ To determine the probability of encountering hazards, the research team calculat
 ### Conclusion
 The statistical software packages R and Excel were employed to execute the requisite computations. The report culminated by elaborating on the program's costs, enumerating the underlying assumptions, examining the risks entailed, and expounding upon the constraints of the model.
 
----
 ## Objective
 
 This social insurance program for relocation is aimed at helping Storslysia manage its exposure to displacement risk arising from catastrophic climate-related events, as Storslysia is acutely threatened by the impact of climate-related catastrophes that are increasing over time due to climate change.
