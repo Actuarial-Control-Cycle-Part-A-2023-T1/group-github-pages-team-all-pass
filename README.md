@@ -15,7 +15,6 @@ Cost and result of this program were projected across the next twenty years. Eff
 
 ## Project outline
 ![image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-team-all-pass/blob/main/project%20outline.png)
-![image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-team-all-pass/blob/e218fd54c5cd2d37e657f3164ef0d762987eb42a/project%20outline.png)
  
 ## Brief Working Process
 ### Objective
