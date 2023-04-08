@@ -286,7 +286,7 @@ There were several missing values in the inflation and interest rates data provi
 7. Voluntary relocation and emergency displacement costs and effectiveness of voluntary relocation
       ![image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-team-all-pass/blob/main/A7.1%20table.png )
       ![image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-team-all-pass/blob/main/A7.2%20chart.png )
-      
+      ![image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-team-all-pass/blob/af658d0bc6db6e9168318687e9fa99c11473a497/A7.2%20chart.png)
 8. Emergency costs reduced under extreme case. 
       ![image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-team-all-pass/blob/main/A8.png )
 
