@@ -12,42 +12,31 @@ Our model was designed based on the historical hazard data of Storslysia, future
 
 Cost and result of this program were projected across the next twenty years. Effectively, it would more than halve the expected loss arisen from catastrophic weather events by the end of this policy term, with two third of the reduction amount attribute to voluntary relocation.
 
-
---- 
 ## Project outline
 [To do]
 
 ---
 
 ## Brief Working Process
-[To do]
-
-1. Objective
-
+### Objective
 The present study aimed to comprehensively analyze the assigned task by conducting a thorough review and examination of the provided data. The primary objective was to develop a sound project outline and test various models for hazard rate modeling.
 
-2. Data Analysis
-
+### Data Analysis
 In order to guarantee the veracity of the data, the research team undertook a thorough and rigorous examination of the provided information. The team conducted a detailed analysis of relationships between different variables to discern trends and establish a dependable project outline. To determine the most appropriate methodology for hazard rate modeling, the team conducted testing of multiple models.
 
-3. Research and Assumptions
-
+### Research and Assumptions
 Given the limited availability of data and information, the team sought guidance from similar products that already exist in the market. Moreover, the team relied on prior research published in academic journals that studied the relocation intentions of households to make certain assumptions.
 
-4. Hazard Rate Modeling
-
+### Hazard Rate Modeling
 The team employed the CO2-related model to prognosticate future hazard rates. The amplification factor employed in the model was appraised for diverse years, while the base hazard rate was estimated through the application of a Poisson GLM model. The hazards were categorized into various magnitudes based on their costs, and the average cost was utilized for subsequent modeling.
 
-5. Relocation
-
+### Relocation
 To determine the probability of encountering hazards, the research team calculated the number of households eligible for relocation based on an estimated level of risk for each property. To focus on displacement and its potential consequences, minor hazards that do not significantly impact the quality of life were disregarded. Additionally, well-defined coverage rules were established to define the program's scope, and the associated costs were computed accordingly. Furthermore, the team conducted stress testing to evaluate the program's performance under varying scenarios.
 
-6. Conclusion
-
+### Conclusion
 The statistical software packages R and Excel were employed to execute the requisite computations. The report culminated by elaborating on the program's costs, enumerating the underlying assumptions, examining the risks entailed, and expounding upon the constraints of the model.
 
 ---
-## Report
 ## Objective
 
 This social insurance program for relocation is aimed at helping Storslysia manage its exposure to displacement risk arising from catastrophic climate-related events, as Storslysia is acutely threatened by the impact of climate-related catastrophes that are increasing over time due to climate change.
@@ -250,11 +239,6 @@ There were several missing values in the inflation and interest rates data provi
 * Detailed information needed to predict hazard events rate is limited. The frequency projection model given is used to estimate hazard events rate, which is subject to judgement since the rate may not follow the pattern of how atmospheric CO2 concentrations rise or fall. Cubic interpolation was used to determine RAF (risk amplification factor) per year as only data in decade is provided.  
 * Information on residents’ relocation intention was not provided, assumption has been made to accommodate the missing information into the models.  
 
----
-## Conclusion
-[To do]
-
----
 ## Appendix
 1. Voluntary relocation proportion and effect 
       ![image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-team-all-pass/blob/main/A1.png)
