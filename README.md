@@ -138,7 +138,9 @@ Note: All values provided are in Ꝕ.
 
 ### Hazard Frequency  
 Based on the future forecast CO2 emission data provided in the SSP scenarios model, a cubic equation was fitted for each scenario to obtain the annual CO2 emission level from 2020 to 2045. The risk amplification factor (RAF) for natural disasters were obtained by
-$$(CO_2\ emission\ of\ target\ year/CO_2\ emmission\ of\ base\ year)^2$$
+```math
+(CO_2\ emission\ of\ target\ year/CO_2\ emmission\ of\ base\ year)^2
+```
 By using the predicted number of hazards occurred in 2020 as baseline, the expected number of hazards occur in the next 20 years under medium CO2 emission would be projected.   
 
 ### Hazard Severity   
@@ -147,16 +149,26 @@ As mentioned in the assumption section, natural disasters were expected to creat
 > For more details, see Appendix 2 
 
 ### Voluntary Relocation Cost 
-$$ Household\ wish\ to\ relocate\ =\ Household\ in\ the\ high\ risk\ area\ *\ Relocation\ percentage\ every\ year$$
+```math
+Household\ wish\ to\ relocate\ =\ Household\ in\ the\ high\ risk\ area\ *\ Relocation\ percentage\ every\ year
+```
 
-$$ Voluntary\ relocation\ cost\ =\ Household\ wish\ to\ relocate\ *\ Average\ property\ value\ *\ 0.05\ *\ (benefit\ percent) $$
+```math
+Voluntary\ relocation\ cost\ =\ Household\ wish\ to\ relocate\ *\ Average\ property\ value\ *\ 0.05\ *\ (benefit\ percent) 
+```
 
 ### Emergency Displacement Cost
-$$ Temporary\ cost\ =\ Estimated\ households\ required\ accommodation\ *\ Average\ person\ per\ household\ *\ (Temporary\ accommodation\ cost\ +\ basic\ needs\ cost)$$
+```math
+Temporary\ cost\ =\ Estimated\ households\ required\ accommodation\ *\ Average\ person\ per\ household\ *\ (Temporary\ accommodation\ cost\ +\ basic\ needs\ cost)
+```
 
-$$ Repair\ cost\ =\ Expected\ property\ damage\ after\ adjustment\ *\ 1.25\ (extra\ 0.25\ allowance\ for\ the\ cost\ rise\ after\ hazards)$$
+```math
+Repair\ cost\ =\ Expected\ property\ damage\ after\ adjustment\ *\ 1.25\ (extra\ 0.25\ allowance\ for\ the\ cost\ rise\ after\ hazards)
+```
 
-$$ Emergency displacement cost = Repair cost + Temporary cost$$
+```math
+Emergency displacement cost = Repair cost + Temporary cost
+```
 
 > For detail formulas, see Appendix 3. 
 
