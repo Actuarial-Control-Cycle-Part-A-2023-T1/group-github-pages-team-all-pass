@@ -22,11 +22,23 @@ Cost and result of this program were projected across the next twenty years. Eff
 ## Brief Working Process
 [To do]
 
-The task entailed a thorough review of the assigned tasks, followed by a comprehensive analysis of the data provided. In this phase, the data was meticulously examined to ascertain its validity, and various models for hazard rate modeling were tested. Additionally, relationships between the different variables were analyzed to provide a sound project outline. Due to the scarcity of data and information, the team resorted to seeking guidance from existing similar products. However, it was observed that only a few insurance companies offered products that covered displacement due to hazards, and the limited data available made it challenging to find relevant samples online. To fill these gaps, the team made assumptions based on research in journal articles that studied relocation intention.
+1. Objective
+The present study aimed to comprehensively analyze the assigned task by conducting a thorough review and examination of the provided data. The primary objective was to develop a sound project outline and test various models for hazard rate modeling.
 
-Given the paucity of data relating to hazard rates, the team opted to utilize the CO2 related model provided to estimate future hazard rates. The amplification factor used in the model was estimated for different years, and the base hazard rate was estimated using a Poisson GLM model. To further refine the modeling process, the hazards were split into different sizes based on their costs, and the average cost was used for subsequent modeling. Regarding relocation, since no data about the riskiness of each area was provided, the team estimated properties that were more likely to face hazards and computed relocation households based on this estimate. In addition, minor hazards that would not affect the quality of living were ignored as the program focused on displacement. The coverage rules were established, and the cost of the program was computed. Furthermore, stress testing was performed, testing different scenarios such as the program's cost if voluntary relocation did not perform well, if the hazard rate was higher, and if the costs associated with relocation increased to the limit after hazards.
+2. Data Analysis
+In order to guarantee the veracity of the data, the research team undertook a thorough and rigorous examination of the provided information. The team conducted a detailed analysis of relationships between different variables to discern trends and establish a dependable project outline. To determine the most appropriate methodology for hazard rate modeling, the team conducted testing of multiple models.
 
-To complete the assignment, the team used R and Excel to perform the necessary computations. The report concluded by detailing the costs of the program, listing the assumptions made, discussing any risks involved, and outlining the limitations of the model. The team held regular meetings, during which tasks were allocated, and each member's work was reviewed and shared, resulting in a more comprehensive report. In addition, team members contributed to various areas beyond their main allocation to provide diverse thoughts and perspectives.
+3. Research and Assumptions
+Given the limited availability of data and information, the team sought guidance from similar products that already exist in the market. Moreover, the team relied on prior research published in academic journals that studied the relocation intentions of households to make certain assumptions.
+
+4. Hazard Rate Modeling
+The team employed the CO2-related model to prognosticate future hazard rates. The amplification factor employed in the model was appraised for diverse years, while the base hazard rate was estimated through the application of a Poisson GLM model. The hazards were categorized into various magnitudes based on their costs, and the average cost was utilized for subsequent modeling.
+
+5. Relocation
+To determine the probability of encountering hazards, the research team calculated the number of households eligible for relocation based on an estimated level of risk for each property. To focus on displacement and its potential consequences, minor hazards that do not significantly impact the quality of life were disregarded. Additionally, well-defined coverage rules were established to define the program's scope, and the associated costs were computed accordingly. Furthermore, the team conducted stress testing to evaluate the program's performance under varying scenarios.
+
+6. Conclusion
+The statistical software packages R and Excel were employed to execute the requisite computations. The report culminated by elaborating on the program's costs, enumerating the underlying assumptions, examining the risks entailed, and expounding upon the constraints of the model.
 
 ---
 ## Report
