@@ -5,6 +5,7 @@
 >Team All Pass @ UNSW  
 >Boyuan Wang | Jason Zhang | Jingyuan Wang | Yan Ching Tang | Ying Jiang
 ---
+
 ## Executive summary
 The following report will be introducing our social insurance program that provides protection to residents in Storslysia against socio-economic loss caused by natural disasters. The divergence of level of development and risk exposure were taken into consideration that we tailored the policy to ensure residents in the six regions of Storslysia are well protected from emergency displacement in an equal and cost-effective basis. In addition, a voluntary relocation section was designed to encourage risk mitigation, believing that awareness and proactive actions are fundamental in reducing potential losses.
 
@@ -238,7 +239,7 @@ There were several missing values in the inflation and interest rates data provi
 
 ## Appendix
 1. Voluntary relocation proportion and effect 
-      ![image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-team-all-pass/blob/main/A1.png)
+      ![image](A1.png)
       
 2. Calculation on number of hazard events in next 20 years by using most fitted trend line, and the R-square of fitted trend line is controlled higher than 0.995.
       ![image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-team-all-pass/blob/main/A2.1%20excel%20trendline.png )
