@@ -139,7 +139,7 @@ Note: All values provided are in Ꝕ.
 ### Hazard Frequency  
 Based on the future forecast CO2 emission data provided in the SSP scenarios model, a cubic equation was fitted for each scenario to obtain the annual CO2 emission level from 2020 to 2045. The risk amplification factor (RAF) for natural disasters were obtained by
 
-![image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-team-all-pass/blob/main/Hazard%20frequency%20formula%201.png )
+![image](Hazard%20frequency%20formula%201.png )
 
 By using the predicted number of hazards occurred in 2020 as baseline, the expected number of hazards occur in the next 20 years under medium CO2 emission would be projected.   
 
