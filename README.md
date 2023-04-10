@@ -150,11 +150,11 @@ As mentioned in the assumption section, natural disasters were expected to creat
 
 ### Voluntary Relocation Cost 
 
-![image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-team-all-pass/raw/main/voluntary%20relocation%20cost%20formula.png )
+![image](voluntary%20relocation%20cost%20formula.png )
 
 ### Emergency Displacement Cost
 
-![image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-team-all-pass/blob/main/emergency%20replacement%20cost%20formula.png )
+![image](emergency%20replacement%20cost%20formula.png )
 
 > For detail formulas, see Appendix 3. 
 
@@ -237,11 +237,11 @@ There were several missing values in the inflation and interest rates data provi
 
 ## Appendix
 1. Voluntary relocation proportion and effect 
-      ![image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-team-all-pass/blob/main/A1.png)
+      ![image](A1.png)
       
 2. Calculation on number of hazard events in next 20 years by using most fitted trend line, and the R-square of fitted trend line is controlled higher than 0.995.
-      ![image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-team-all-pass/blob/main/A2.1%20excel%20trendline.png )
-      ![image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-team-all-pass/blob/main/A2.2%20excel%20emission%20detail.png )
+      ![image](A2.1%20excel%20trendline.png )
+      ![image](A2.2%20excel%20emission%20detail.png )
       
 3. Formulas used to model voluntary Relocation, emergency displacement and policy cost. 
     * Expected property damage (medium/major) = Average property damage (medium/major) * predicted hazard rate (medium/major) 
@@ -257,23 +257,23 @@ There were several missing values in the inflation and interest rates data provi
     * Total policy cost each region each year = Emergency displacement cost each region each year + Voluntary relocation cost each region each year 
     
 4. Cost comparison with or without program
-      ![image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-team-all-pass/blob/main/A4%20cost%20comparison.png )
+      ![image](A4%20cost%20comparison.png )
       
 5. Predicted annual regional premium under medium CO2 emission.
     * Premium = Total policy cost for each region/ (1+half year interest) / household in each region 
-    ![image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-team-all-pass/blob/main/A5%20premium.png )
+    ![image](A5%20premium.png )
     
 6. Economic capital testing
     * Poisson GLM to predict hazards rate in 2020 and 99% one-side confidence interval for extreme cases. 
-    ![image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-team-all-pass/blob/main/A6.1%20capital%20testing%20R%20code.png)
+    ![image](A6.1%20capital%20testing%20R%20code.png)
     
     * Comparison of total policy costs under normal and extreme cases  
-    ![image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-team-all-pass/blob/main/A6.2%20comparison.png)
+    ![image](A6.2%20comparison.png)
 7. Voluntary relocation and emergency displacement costs and effectiveness of voluntary relocation
-      ![image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-team-all-pass/blob/main/A7.1%20table.png )
-      ![image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-team-all-pass/blob/main/A7.2%20chart.png )
+      ![image](A7.1%20table.png )
+      ![image](A7.2%20chart.png )
 8. Emergency costs reduced under extreme case. 
-      ![image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-team-all-pass/blob/main/A8.png )
+      ![image](A8.png )
 
 ## BIBLIOGRAPHY
 Chetty, R. 2006, “A general formula for the optimal level of Social Insurance,” Journal of Public Economics, 90(10-11), pp. 1879–1901, <https://doi.org/10.1016/j.jpubeco.2006.01.004>
