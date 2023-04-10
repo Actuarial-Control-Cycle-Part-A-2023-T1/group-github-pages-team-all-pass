@@ -14,7 +14,7 @@ Our model was designed based on the historical hazard data of Storslysia, future
 Cost and result of this program were projected across the next twenty years. Effectively, it would more than halve the expected loss arisen from catastrophic weather events by the end of this policy term, with two third of the reduction amount attribute to voluntary relocation.
 
 ## Project outline
-![image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-team-all-pass/blob/main/project%20outline.png)
+![image](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-team-all-pass/raw/main/project%20outline.png)
  
 ## Brief Working Process
 ### Objective
